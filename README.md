@@ -13,5 +13,7 @@ Spark AR studio is created and owned by Facebook. Spark AR enables you to create
 
 # Projects
 - Face Wiggle effect
+face-wiggle-effect-gif.gif![image](https://user-images.githubusercontent.com/69641147/115501659-3babbb00-a291-11eb-8ad1-0c17328cdbe2.png)
+
 - Guess the movie name
 - Frames and Pages Logo
